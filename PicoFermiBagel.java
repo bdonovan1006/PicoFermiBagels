@@ -135,7 +135,6 @@ class Bagels {
         do {
             genNum();
             welcome();
-            System.out.println(winNum);
             do {
                 acceptGuess();
                 checkGuess();
