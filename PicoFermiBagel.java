@@ -1,9 +1,7 @@
 
 /**
  * Brian Donovan
- * 915106202
- * 11/2/16
- * 1068-001 Lab 9
+ * Brian1006@comcast.net
  * This program will allow the user to play a basic version of Pico, Fermi,
  * Bagels and allows the user to play multiple times.
  */
